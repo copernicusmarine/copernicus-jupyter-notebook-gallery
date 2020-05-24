@@ -127,3 +127,14 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# General data and images
+*.nc
+*.zip
+
+# OSx junk
+*DS_Store*
+
+# Work in progress projects
+*_WIP
+WIP_*
