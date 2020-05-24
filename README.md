@@ -21,7 +21,7 @@ A gallery of Jupyter Notebooks dedicated to Copernicus Marine Service (https://m
 6. **Mediterranean Sea Modeling**
    1. [Data Viz' of 3D Temperature, Salinity and computation of density and vertical section along transect]() - [[LiveCode]]()
    2. [Data Viz' of Wave Height and Direction, computation of Wave Rose from long timeseries]() - [[LiveCode]]()
-   3. [Data Viz' of the evolution of nutrients, chlorophyll, oxygen and CO2 through maps, sections and timeseries]() - [[LiveCode]]()
+   3. [Data Viz' of the evolution of nutrients, chlorophyll, O2 and CO2 through maps, sections and timeseries]() - [[LiveCode]]()
 7. **Black Sea Modeling**
    1. [Scalar Maps]() - [[LiveCode]]()
    2. [Vector Plots]() - [[LiveCode]]()
