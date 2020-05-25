@@ -12,7 +12,7 @@ A gallery of Jupyter Notebooks dedicated to Copernicus Marine Service (https://m
 ## Table of Contents
 1. **Global Ocean Modeling (work-in-progress)**
 2. **Arctic Ocean Modeling**
-   1. [Data Viz' of 3D Temperature, Currents, Biogeochemical vars, Significant Wave and Sea Surface Heights]() - [[LiveCode]]()
+   1. [Data Viz' of 3D Temperature, Currents, Biogeochemical vars, Significant Wave and Sea Surface Heights]() - [`[LiveCode]`]()
 3. **Baltic Seas Modeling**
    1. [Sea Ice Model Monthly Maps]() - [[LiveCode]]()
    2. [Sea Ice Comparison Observations]() - [[LiveCode]]()
