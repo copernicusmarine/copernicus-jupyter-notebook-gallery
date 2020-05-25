@@ -1,8 +1,15 @@
 # Copernicus Jupyter Notebook Gallery
 A gallery of Jupyter Notebooks dedicated to Copernicus Marine Service (https://marine.copernicus.eu).
 
-## Table of Contents
+**Credits**: E.U. Copernicus Marine Service Information
 
+## How to Use these Notebooks
+- Browse and read a notebook by clicking on its title
+- Run the code (locally) using notebook available in this repository (see [Software]() section hereafter)
+- Launch a live JupyterLab server for notebooks of your interest by clicking on: `[LiveCode]`
+- Become a Coperninus Member (see [Community](https://github.com/copernicusmarine/copernicus-jupyter-notebook-gallery/tree/master#join-the-community) section hereafter) to unlock all features
+
+## Table of Contents
 1. **Global Ocean Modeling (work-in-progress)**
 2. **Arctic Ocean Modeling**
    1. [Data Viz' of 3D Temperature, Currents, Biogeochemical vars, Significant Wave and Sea Surface Heights]() - [[LiveCode]]()
@@ -66,12 +73,18 @@ A gallery of Jupyter Notebooks dedicated to Copernicus Marine Service (https://m
 1. Wave Observations
 1. MultiObservations 
  
-
 ## Join the community
 
 Get in touch!
 - Create your [Copernicus Marine Account](https://resources.marine.copernicus.eu/?option=com_sla)
-- Chat in our [Copernicus Marine ChatRoom](https://chat-cmems.mercator-ocean.fr)
+- Chat in our [Copernicus Marine ChatRoom]()
 - Contact our [Copernicus Human Service Support](https://marine.copernicus.eu/services-portfolio/contact-us/)
-- [Tweet us](https://twitter.com/cmems_eu)
+- Join our [training workshops](https://marine.copernicus.eu/news/events-agenda/?keywords=News%20and%20Events%2CEvents%2CNews) and improve your skills from our [Copernicus JupyterLab]()
+- (re)Tweet y/our [Copernicus Stories](https://twitter.com/cmems_eu)
 - Whatch [our videos](https://www.youtube.com/channel/UC71ceOVy7WtVC7F04BKoEew)
+
+## About
+
+## Software
+
+## Licence
