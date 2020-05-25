@@ -5,9 +5,9 @@ A gallery of Jupyter Notebooks dedicated to Copernicus Marine Service (https://m
 
 ## How to Use these Notebooks
 - Browse and read a notebook by clicking on its title
-- Run the code (locally) using notebook available in this repository (see [Software]() section hereafter)
+- Run the code (locally) using notebook available in this repository (see [Software](#software) section hereafter)
 - Launch a live JupyterLab server for notebooks of your interest by clicking on: `[LiveCode]`
-- Become a Coperninus Member (see [Community](https://github.com/copernicusmarine/copernicus-jupyter-notebook-gallery/tree/master#join-the-community) section hereafter) to unlock all features
+- Become a Coperninus Member (see [Community](#join-the-community) section hereafter) to unlock all features
 
 ## Table of Contents
 1. **Global Ocean Modeling (work-in-progress)**
