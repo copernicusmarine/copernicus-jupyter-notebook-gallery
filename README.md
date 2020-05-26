@@ -40,7 +40,7 @@ A gallery of Jupyter Notebooks dedicated to Copernicus Marine Service (https://m
    4. [Level-3 Along Track over Arctic Ocean]() - [[LiveCode]]()
 9. **Ocean Colour**
 1. **Sea Surface Temperature**
-   1. [Subset, Download, Read, Convert, Plot NetCDF Files over Global Ocean](./11-01-Subset-Download-Read-Convert-Plot-NetCDF-files-over-Global-Ocean.ipynb) - [[LiveCode]]()
+   1. [Subset, Download, Read, Convert, Plot NetCDF Files over Global Ocean](./10-01-Subset-Download-Read-Convert-Plot-NetCDF-files-over-Global-Ocean.ipynb) - [[LiveCode]]()
 1. **Sea Ice**
 1. **Wind Observations**
 1. **Insitu Observations**
