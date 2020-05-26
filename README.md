@@ -1,4 +1,6 @@
 # Copernicus Jupyter Notebook Gallery
+![CopernicusMarine screenshot](copernicus-marine-jupyter-overview.png "CopernicusMarine screenshot")
+
 A gallery of Jupyter Notebooks dedicated to Copernicus Marine Service (https://marine.copernicus.eu).
 
 **Credits**: E.U. Copernicus Marine Service Information
