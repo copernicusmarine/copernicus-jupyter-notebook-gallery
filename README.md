@@ -12,7 +12,7 @@ A gallery of Jupyter Notebooks dedicated to Copernicus Marine Service (https://m
 ## Table of Contents
 1. **Global Ocean Modeling (work-in-progress)**
 2. **Arctic Ocean Modeling**
-   1. [Data Viz' of 3D Temperature, Currents, Biogeochemical vars, Significant Wave and Sea Surface Heights]() - [`[LiveCode]`]()
+   1. [Data Viz' of 3D Temperature, Currents, Biogeochemical vars, Significant Wave and Sea Surface Heights]() - [[LiveCode]]()
 3. **Baltic Seas Modeling**
    1. [Sea Ice Model Monthly Maps]() - [[LiveCode]]()
    2. [Sea Ice Comparison Observations]() - [[LiveCode]]()
@@ -40,7 +40,7 @@ A gallery of Jupyter Notebooks dedicated to Copernicus Marine Service (https://m
    4. [Level-3 Along Track over Arctic Ocean]() - [[LiveCode]]()
 9. **Ocean Colour**
 1. **Sea Surface Temperature**
-   1. [Subset, Download, Read, Convert, Plot NetCDF Files over Global Ocean](./10-01-Subset-Download-Read-Convert-Plot-NetCDF-files-over-Global-Ocean.ipynb) - [[LiveCode]]()
+   1. [Subset, Download, Read, Convert, Plot NetCDF Files over Global Ocean](./10-01-Subset-Download-Read-Convert-Plot-NetCDF-files-over-Global-Ocean.ipynb) - [`[LiveCode]`](http://tiny.cc/copernicus-training)
 1. **Sea Ice**
 1. **Wind Observations**
 1. **Insitu Observations**
